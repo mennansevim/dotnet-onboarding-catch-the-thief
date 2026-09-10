@@ -18,7 +18,7 @@ Her cevabı veritabanındaki kanıtlarla destekle. Sadece isimleri tahmin etmek 
 
 ## Veritabanını indir
 
-### [⬇ istanbul_heist.db — doğrudan indir](https://github.com/mennansevim/bootcamp-catch-the-thief/releases/download/v1.0.0/istanbul_heist.db)
+### [⬇ istanbul_heist.db — doğrudan indir](https://github.com/mennansevim/dotnet-onboarding-catch-the-thief/releases/download/v1.0.0/istanbul_heist.db)
 
 Alternatif: [Depodaki veritabanı](./istanbul_heist.db) sayfasını açıp **Download raw file** düğmesini kullan.
 
@@ -99,7 +99,7 @@ Başlangıç dosyaları [sablon/](./sablon/) klasöründe bulunur; bunları kend
 1. GitHub hesabınla giriş yap ve bu deponun sağ üstündeki **Fork** düğmesiyle kendi kopyanı oluştur.
 2. Bilgisayarında ad-soyad klasörünü oluştur; içine `log.sql` ve `answers.txt` dosyalarını koy.
 3. Kendi fork’unda **`cevaplar/`** klasörünü aç. **Add file → Upload files** ile ad-soyad klasörünü içindeki dosyalarla birlikte yükle ve **Commit changes** ile kaydet.
-4. Fork’unda **Contribute → Open pull request** yoluyla asıl projeye bir **Pull Request** gönder. Hedef `mennansevim/bootcamp-catch-the-thief` deposunun `main` dalı olmalı.
+4. Fork’unda **Contribute → Open pull request** yoluyla asıl projeye bir **Pull Request** gönder. Hedef `mennansevim/dotnet-onboarding-catch-the-thief` deposunun `main` dalı olmalı.
 5. Başlığı **`Cevap: Ad Soyad`** yap. Açıklamada sorgularınla üç soruyu yanıtladığını belirt ve Pull Request’i gönder.
 
 Herkese açık olması depoya doğrudan yazma yetkisi vermez; cevaplar **Fork → Pull Request** yoluyla teslim edilir. Proje sahibi birleştirdiğinde klasörün bu projede görünür. Pull Request’in ve gönderdiğin cevaplar herkese açık olur.
