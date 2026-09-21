@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Commencis Bootcamp SQL Challenge: Kaşıkçı Elması kayıp</title>
+  <desc id="desc">Koyu lacivert zemin üzerinde vaka bilgileri ve geometrik bir elmas illüstrasyonu.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#151c33"/></linearGradient>
+    <linearGradient id="diamondTop" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <linearGradient id="diamondLeft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dff6ff"/><stop offset="1" stop-color="#8b9deb"/></linearGradient>
+    <linearGradient id="diamondRight" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#6d5bd0"/><stop offset="1" stop-color="#dbeafe"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feDropShadow dx="0" dy="22" stdDeviation="20" flood-color="#000000" flood-opacity=".38"/></filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1280" height="520" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="520" rx="28" fill="url(#grid)"/>
+  <circle cx="1080" cy="90" r="220" fill="#7357ff" opacity=".07"/>
+  <circle cx="1015" cy="405" r="175" fill="#72d9ff" opacity=".045"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="82" fill="#a995ff" font-size="18" font-weight="700" letter-spacing="3">COMMENCIS BOOTCAMP · SQL CHALLENGE</text>
+    <text x="72" y="166" fill="#f8fafc" font-size="58" font-weight="800">Kaşıkçı Elması</text>
+    <text x="72" y="231" fill="#f8fafc" font-size="58" font-weight="800">kayıp.</text>
+    <text x="72" y="296" fill="#98a2b8" font-size="52" font-weight="700">Hırsızı SQL ile bul.</text>
+    <text x="72" y="350" fill="#cbd5e1" font-size="20">Kayıtları ilişkilendir · Tanıkları dinle · Kaçışın izini sür</text>
+    <g transform="translate(72 398)">
+      <rect width="150" height="48" rx="10" fill="#7357ff"/><text x="75" y="30" fill="#ffffff" font-size="15" font-weight="700" text-anchor="middle">CASE #2807</text>
+      <rect x="166" width="208" height="48" rx="10" fill="#202b41" stroke="#35425d"/><text x="270" y="30" fill="#e2e8f0" font-size="15" font-weight="700" text-anchor="middle">READ-ONLY DATABASE</text>
+    </g>
+  </g>
+  <g transform="translate(845 58)" filter="url(#shadow)" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">
+    <path d="M48 128 124 38h206l76 90-179 210Z" fill="url(#diamondLeft)"/>
+    <path d="M48 128h358L227 338Z" fill="url(#diamondRight)"/>
+    <path d="M124 38 48 128h358l-76-90Z" fill="url(#diamondTop)"/>
+    <path d="m124 38 52 90 51-90 52 90 51-90M176 128l51 210 52-210" fill="none" stroke-opacity=".62"/>
+  </g>
+  <g transform="translate(832 410)" font-family="Arial, Helvetica, sans-serif">
+    <rect width="368" height="62" rx="14" fill="#202b41" stroke="#35425d"/><line x1="122" y1="12" x2="122" y2="50" stroke="#41506d"/><line x1="245" y1="12" x2="245" y2="50" stroke="#41506d"/>
+    <text x="61" y="29" fill="#ffffff" font-size="20" font-weight="700" text-anchor="middle">10</text><text x="61" y="46" fill="#98a2b8" font-size="11" text-anchor="middle">TABLO</text>
+    <text x="184" y="29" fill="#ffffff" font-size="20" font-weight="700" text-anchor="middle">927</text><text x="184" y="46" fill="#98a2b8" font-size="11" text-anchor="middle">KAYIT</text>
+    <text x="306" y="29" fill="#ffffff" font-size="20" font-weight="700" text-anchor="middle">3</text><text x="306" y="46" fill="#98a2b8" font-size="11" text-anchor="middle">CEVAP</text>
+  </g>
+</svg>
